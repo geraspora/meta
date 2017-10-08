@@ -17,9 +17,9 @@ E-Mail: [contact@geraspora.de](mailto:contact@geraspora.de)
 
 ## 1. Vorwort
 
-Geraspora ist eine Installation der Software des Diaspora-Projektes. Der Quellcode der Software ist für jeden offen zugänglich und kann eingesehen, heruntergeladen, genutzt und verteilt werden.
+Geraspora ist eine Installation der Software des diaspora\*-Projektes. Der Quellcode der Software ist für jeden offen zugänglich und kann eingesehen, heruntergeladen, genutzt und verteilt werden.
 
-Diaspora ist ein dezentrales soziales Netzwerk, welches Nutzern erlaubt, Inhalte miteinander zu teilen, Informationen auszutauschen und Spaß zu haben.
+diaspora\* ist ein dezentrales soziales Netzwerk, welches Nutzern erlaubt, Inhalte miteinander zu teilen, Informationen auszutauschen und Spaß zu haben.
 
 ## 2. Haftung für Inhalte, Links und alles andere
 
@@ -49,9 +49,9 @@ Dem Betreiber ist es wichtig, die Daten der Nutzer zu schützen. Es werden keine
 * E-Mail-Adresse
 * IP-Adresse und Zeitpunkt der letzten Anmeldung
 
-Für Daten, die an andere Diaspora-Pods oder an externe Dienste wie Twitter gesendet werden, kann der Betreiber keinerlei Aussagen treffen. Hier sind die Datenschutzbestimmungen der jeweiligen Plattform zu beachten.
+Für Daten, die an andere diaspora\*-Pods oder an externe Dienste wie Twitter gesendet werden, kann der Betreiber keinerlei Aussagen treffen. Hier sind die Datenschutzbestimmungen der jeweiligen Plattform zu beachten.
 
-Leider ist nichts perfekt, auch Diaspora nicht. Der Betreiber kann daher nicht ausschließen, dass Daten durch Sicherheitslücken und Angriffe auf die Systeme abgegriffen werden. Im Falle eines Datenverlustes wird der Anbieter die Nutzer darüber informieren.
+Leider ist nichts perfekt, auch diaspora\* nicht. Der Betreiber kann daher nicht ausschließen, dass Daten durch Sicherheitslücken und Angriffe auf die Systeme abgegriffen werden. Im Falle eines Datenverlustes wird der Anbieter die Nutzer darüber informieren.
 
 ## Hinweise
 
