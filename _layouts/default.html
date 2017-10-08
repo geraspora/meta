@@ -1,0 +1,14 @@
+{% include header.html %}
+
+<div class="container" id="contents">
+  <div class="row">
+    <div class="col-sm-8">
+      {{content}}
+    </div>
+    <div class="col-sm-3 offset-sm-1">
+      {% include sidebar.html %}
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}

@@ -1,0 +1,77 @@
+---
+---
+
+@import "bootstrap.min";
+
+#contents {
+  margin-top: 25px;
+
+  h2 {
+    margin-bottom: 0.5em;
+    margin-top: 1.2em;
+  }
+
+  /**
+   * This is just c&p from bootstrap, but styling the tag directly
+   * instead of using the `table` class. Because markdown.
+   */
+  table {
+    background-color: transparent;
+    margin-bottom: 1rem;
+    max-width: 100%;
+    width: 100%;
+
+    th, td {
+      padding: .75rem;
+      vertical-align: top;
+      border-top: 1px solid #e9ecef;
+    }
+
+    thead th {
+      vertical-align: bottom;
+      border-bottom: 2px solid #e9ecef;
+    }
+  }
+}
+
+.sidebar-content {
+  font-size: 0.9em;
+  margin-bottom: 2em;
+
+  .sidebar-title {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+  }
+}
+
+.team-member {
+  h3 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+  }
+
+  img {
+    max-height: 200px;
+    max-width: 200px;
+  }
+
+  ul {
+    padding-left: 1.3em;
+  }
+}
+
+.overview {
+  h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding-bottom: 0.5em;
+  }
+
+  .row {
+    margin-bottom: 30px;
+  }
+}

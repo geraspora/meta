@@ -1,13 +1,71 @@
 ---
-layout: main
-title: Geraspora
 ---
 
-<div class="ym-gbox-left ym-clearfix">
-  <p>
-    Hallöchen. Auf diesen Seiten finden sich Informationen rund um
-    Geraspora, den größten deutschen Diaspora-Pod. Aktuelle Informationen
-    veröffentlichen wir als öffenentliche Beiträge unseres Team-Kontos
-    auf Diaspora, <a href="https://pod.geraspora.de/u/team" target="_blank">team@pod.geraspora.de</a>.
-  </p>
+<p class="lead">
+  Uh, that's meta. Eine Seite mit Informationen über eine Seite.
+</p>
+
+<div class="overview">
+  <h2>Allgemeine Informationen</h2>
+
+  <div class="row">
+    {% include overview_card.html
+      title="Offizielles Team-Profil"
+      subtitle="auf diaspora*"
+      description="diaspora*-Profil, mit dem wir wichtige Ankündigungen und Informationen verteilen."
+      url="https://pod.geraspora.de/u/team"
+    %}
+    {% include overview_card.html
+      title="Team"
+      subtitle="wer schuld ist..."
+      description="Kurze Auflistung der Leute, die Geraspora betreiben und betreuen. Damit jeder weiß, wem man Kekse schenken sollte. ;)"
+      url="/pod/team.html"
+    %}
+  </div>
+</div>
+
+<div class="overview">
+  <h2>Rechtliches</h2>
+
+  <div class="row">
+    {% include overview_card.html
+      title="Nutzungsbedingungen"
+      subtitle="und Datenschutzbestimmungen"
+      description="Rechtliche Informationen zur Nutzung des Pods, und Datenschutzbestimmungen."
+      url="/pod/legal.html"
+    %}
+    {% include overview_card.html
+      title="Gelöschte Inhalte"
+      subtitle="nicht nur der Code ist transparent..."
+      description="Komplette Liste mit Inhalten oder Nutzern, die nach Verstößen gegen unsere Regeln gelöscht wurden."
+      url="/pod/deleted_contents.html"
+    %}
+  </div>
+</div>
+
+<div class="overview">
+  <h2>Sonstiges</h2>
+
+  <div class="row">
+    {% include overview_card.html
+      title="Dias"
+      subtitle="Jeden Monat neu!"
+      description="Eine Übersicht über unsere monatlich wechselnden Bilder im Header von Geraspora (und anderen Pods)!"
+      url="http://dias.geraspora.de/"
+    %}
+    {% include overview_card.html
+      title="Das DDN"
+      subtitle="Dia Delivery Network!"
+      description="Falls man sich einfach nicht von seinem Lieblings-Dia trennen möchte."
+      url="https://ddn.geraspora.de/"
+    %}
+  </div>
+  <div class="row">
+    {% include overview_card.html
+      title="Warrant Canary"
+      subtitle="... fällt bei schlechter Luft um."
+      description="Ein Warrant Canary dient dazu, Nutzer über mögliche behördliche Ermittlungen zu informieren, ohne sie darüber zu informieren..."
+      url="https://pod.geraspora.de/internal/canary.txt"
+    %}
+  </div>
 </div>
