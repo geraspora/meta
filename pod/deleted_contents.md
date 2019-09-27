@@ -15,4 +15,5 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 | 2018-01-30 | Inhalte und Profil eines Accounts von diasp.in; Strafrechtlicher Verstoß des Inhalts                | [Hier](https://pod.geraspora.de/posts/f0677280e7df01351c80101b0e8ace24) |
 | 2018-02-25 | Inhalte und Profil eines Accounts von nerdpol.ch; Missbrauch des Tag-Systems, um Spam zu verteilen. | [Hier](https://pod.geraspora.de/posts/0f590fb0fc0501351cb0101b0e8ace24) |
 | 2018-02-27 | Nochmals vier Accounts, aus verschiedenen Gründen!                                                  | [Hier](https://pod.geraspora.de/posts/1e3e7030fded01351cd2101b0e8ace24) |
-| 2019-04-21 | Ein beleidigender Kommentar eines Nutzers.                                                          |                                                                         |
+| 2019-04-21 | Ein beleidigender Kommentar eines Nutzers.                                                          | auf Anfrage                                                             |
+| 2019-09-27 | Profilinformationen und Beiträge dreier Nutzer von russiandiaspora.org; Verstoß gg. StGB.           | auf Anfrage                                                             |
