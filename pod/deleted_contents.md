@@ -17,3 +17,4 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 | 2018-02-27 | Nochmals vier Accounts, aus verschiedenen Gründen!                                                  | [Hier](https://pod.geraspora.de/posts/1e3e7030fded01351cd2101b0e8ace24) |
 | 2019-04-21 | Ein beleidigender Kommentar eines Nutzers.                                                          | auf Anfrage                                                             |
 | 2019-09-27 | Profilinformationen und Beiträge dreier Nutzer von russiandiaspora.org; Verstoß gg. StGB.           | auf Anfrage                                                             |
+| 2019-11-13 | Profilinformationen und Beiträge eines Nutzers von poddery.com; § 184b StGB.                        | auf Anfrage                                                             |
