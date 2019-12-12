@@ -8,6 +8,7 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 
 | Zeitpunkt  | Was wurde gelöscht?                                                                                 | Details                                                                 |
 | ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2019-12-12 | Profilinformationen und Beiträge eines Nutzers von diaspora.psyco.fr; § 130 StGB.                   | auf Anfrage                                                             |
 | 2019-11-13 | Profilinformationen und Beiträge eines Nutzers von poddery.com; § 184b StGB.                        | auf Anfrage                                                             |
 | 2019-09-27 | Profilinformationen und Beiträge dreier Nutzer von russiandiaspora.org; Verstoß gg. StGB.           | auf Anfrage                                                             |
 | 2019-04-21 | Ein beleidigender Kommentar eines Nutzers.                                                          | auf Anfrage                                                             |
