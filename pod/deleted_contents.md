@@ -9,7 +9,7 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 | Zeitpunkt  | Was wurde gelöscht?                                                                                 | Details                                                                 |
 | ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 2020-01-23 | Profilinformationen und Beiträge eines Nutzers von diaspora-fr.org; § 130 StGB.                     | auf Anfrage                                                             |
-| 2020-01-23 | Profilinformationen und Beiträge eines Nutzers von d.consumium.org ; Spam.                          | auf Anfrage                                                             |
+| 2020-01-23 | Profilinformationen und Beiträge eines Nutzers von d.consumium.org; Spam.                           | auf Anfrage                                                             |
 | 2020-01-21 | Ein Kommentar eines Accounts von talk.anarchismus.xyz; § 126 StGB                                   | auf Anfrage                                                             |
 | 2019-12-12 | Profilinformationen und Beiträge eines Nutzers von share.naturalnews.com; § 130 StGB.               | auf Anfrage                                                             |
 | 2019-12-12 | Profilinformationen und Beiträge eines Nutzers von diaspora.psyco.fr; § 130 StGB.                   | auf Anfrage                                                             |
