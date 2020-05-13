@@ -8,6 +8,9 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 
 | Zeitpunkt  | Was wurde gelöscht?                                                                                        | Details                                                                 |
 | ---------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2020-05-13 | Profilinformationen und Beiträge eines Nutzers von diasp.org; §§ 238, 130 StGB.                            | auf Anfrage                                                             |
+| 2020-05-13 | Profilinformationen und Beiträge eines Nutzers von joindiaspora.com; § 130 StGB.                           | auf Anfrage                                                             |
+| 2020-05-13 | Clone eines früheren Falles auf wk3.org.                                                                   | auf Anfrage                                                             |
 | 2020-04-25 | Profilinformationen und Beiträge eines Nutzers von pubpod.alqualonde.org; § 130 StGB.                      | auf Anfrage                                                             |
 | 2020-03-16 | Clone eines früheren Falles auf pluspora.com, russiandiaspora.org, share.naturalnews.com, tovari.ch.       | auf Anfrage                                                             |
 | 2020-03-15 | Profilinformationen und Beiträge eines Nutzers von diasp.de; § 130 StGB.                                   | auf Anfrage                                                             |
