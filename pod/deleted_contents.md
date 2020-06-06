@@ -8,6 +8,7 @@ Hin und wieder - wenn auch ausgesprochen selten - kommt es vor, dass wir einzeln
 
 | Zeitpunkt  | Was wurde gelöscht?                                                                                        | Details                                                                 |
 | ---------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2020-06-06 | Profilinformationen und Beiträge eines Nutzers von diasporapod.no; § 185 StGB.                             | auf Anfrage                                                             |
 | 2020-05-13 | Profilinformationen und Beiträge eines Nutzers von diasp.org; §§ 238, 130 StGB.                            | auf Anfrage                                                             |
 | 2020-05-13 | Profilinformationen und Beiträge eines Nutzers von joindiaspora.com; § 130 StGB.                           | auf Anfrage                                                             |
 | 2020-05-13 | Clone eines früheren Falles auf wk3.org.                                                                   | auf Anfrage                                                             |
