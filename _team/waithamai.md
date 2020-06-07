@@ -4,7 +4,7 @@ introduction: "a.k.a. Hausdrachen"
 diaspora: "waithamai@pod.geraspora.de"
 diaspora_link: "https://pod.geraspora.de/u/waithamai"
 email: "waithamai@geraspora.de"
-picture: "https://pod.geraspora.de/uploads/images/thumb_large_79871985ec5717736c3e.JPG"
+picture: "https://pod.geraspora.de/uploads/images/thumb_large_498d94dcee40b64735a9.png"
 ---
 
 * Chief Destruction Officer
