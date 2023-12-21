@@ -4,15 +4,15 @@ title: "Impressum, Nutzungsbedingungen und Datenschutz"
 
 # Impressum, Nutzungsbedingungen und Datenschutz
 
-<p class="lead">Version 2.0.0, vom 8. Oktober 2017.</p>
+<p class="lead">Version 2.0.1, vom 21. Dezember 2023.</p>
 
 ## Betreiberinformationen gemäß § 5 TMG
 
 Dennis Schubert  
 Geraspora  
-Waldstetter Straße 30  
-72336 Balingen  
-  
+Rheinstahlstraße 7G  
+70469 Stuttgart
+
 E-Mail: [contact@geraspora.de](mailto:contact@geraspora.de)
 
 ## 1. Vorwort

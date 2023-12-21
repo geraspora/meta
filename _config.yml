@@ -1,9 +1,5 @@
-collections:
-  - team
-
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
