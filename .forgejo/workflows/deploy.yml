@@ -8,12 +8,11 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-24.04
-    permissions:
-      contents: read
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/jekyll-build-pages@v1
+      - run: sudo apt-get update && sudo apt-get install -y rsync
+      - uses: https://code.schub.bar/actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
